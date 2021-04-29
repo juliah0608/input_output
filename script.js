@@ -170,6 +170,7 @@ inputElement.addEventListener("keydown", function(event) {
             }
 
             result.appendChild(selectedCard);
+            
 		}
 	}
 })
