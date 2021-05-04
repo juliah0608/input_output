@@ -3,20 +3,13 @@ body{
     text-align:center;
     margin:auto;
     font-family: Comic Sans MS;
-    background-color: blue;
+ 
 }
 
 
 img {
-    align-items: center;
-    max-width: 300px;
-    margin:16px;
-}
-
-
-.selectedCard{
-   width: 30rem;
+   width: 25rem;
    height: auto;
-   display: none;
-  }
 }
+
+
